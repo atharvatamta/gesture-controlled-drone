@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+gesture_env/
+mp_env/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Model weights (OPTIONAL)
+# Uncomment if file is too large
+# *.pt
